@@ -4,7 +4,7 @@ const ComingSoon = () => {
       <div className="h-full col-center gap-10">
         <img src="/images/logo.webp" alt="logo" className="entrance-logo" />
 
-        <div className="text-wrapper mt-[300px]">
+        <div className="text-wrapper">
           <h3 className="gradient-title">
             Coming <br /> May 26th <br /> 2026
           </h3>
@@ -16,7 +16,7 @@ const ComingSoon = () => {
         </div>
       </div>
     </section>
-  );
-};
+  )
+}
 
-export default ComingSoon;
+export default ComingSoon
