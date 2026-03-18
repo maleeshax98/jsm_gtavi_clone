@@ -17,7 +17,6 @@ const FirstVideo = () => {
         end: "+=200% top",
         scrub: 1,
         pin: true,
-        markers: true,
       },
     });
 
